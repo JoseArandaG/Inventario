@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Credenciales y secretos
+.env
+
+# Archivos temporales de Python
+*.pyc
+__pycache__/
+db.sqlite3
+
+# Otros
+.DS_Store
